@@ -1,7 +1,9 @@
 package com.wxf.dao;
 
 import com.wxf.domain.model.Hkstock;
+import org.springframework.stereotype.Repository;
 
+@Repository("HkstockMapper")
 public interface HkstockMapper {
     int deleteByPrimaryKey(Long id);
 
