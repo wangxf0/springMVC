@@ -2,5 +2,5 @@ target/
 *.iml
 .idea
 lib/
-src/test
+src/test/java
 web/
