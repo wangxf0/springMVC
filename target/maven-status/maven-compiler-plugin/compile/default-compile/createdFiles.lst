@@ -1,1 +1,3 @@
 com\wxf\controller\HelloController.class
+com\wxf\dao\HkstockMapper.class
+com\wxf\domain\model\Hkstock.class
